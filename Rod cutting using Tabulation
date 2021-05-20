@@ -24,7 +24,7 @@ int cutRod(int price[], int n)
  int main()
 {   
 	int arr[20], n;
-	cout<<"Enter the number of rods\n";
+	cout<<"Enter the length of the rod\n";
 	cin>>n;
 	cout<<endl;
 	cout<<"Enter the prices of the rods\n";
